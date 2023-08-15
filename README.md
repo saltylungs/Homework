@@ -24,12 +24,12 @@
 
 ### Задание 1
 
-`https://github.com/Llyffy/First_repository/commit/8463d27bd7972eb6ffa0b0ae0acdb4e5ad70c33c`
+https://github.com/Llyffy/First_repository/commit/8463d27bd7972eb6ffa0b0ae0acdb4e5ad70c33c
 
 ### Задание 2
 
-`https://github.com/Llyffy/First_repository/commit/c4c91bdc38e5a4c43c1bd205f6ece1835cc5e554`
+https://github.com/Llyffy/First_repository/commit/c4c91bdc38e5a4c43c1bd205f6ece1835cc5e554
 
 ### Задание 3
 
-`https://github.com/Llyffy/First_repository/network`
+https://github.com/Llyffy/First_repository/network
