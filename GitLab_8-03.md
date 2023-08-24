@@ -2,11 +2,11 @@
 
 ### Задание 1
 
-Вот скриншоты работоспособности моего раннера:
+Вот скриншоты работоспособности моего runner-а:
 
-1. ![image](https://github.com/Llyffy/Homework/assets/53367937/b459cd1f-5431-48a1-9f63-1436f587cd1e)
+1. ![image](https://img.inmyroom.ru/inmyroom/resize/700x700/jpg:85/uploads/photo/file/66/66a5/jpg_1000_66a54503-3af6-4ff2-840f-85e6b640b9c5.jpg?sign=92b4b224d95aa02a4c1c9e29e0c3c8fb4aa20a97eab1c3681a45ab0fcea079c3)
 
-2. ![image](https://github.com/Llyffy/Homework/assets/53367937/6aedb76c-b427-46d9-a09e-94f8f385e5c9)
+2. ![image](https://krasivosti.pro/uploads/posts/2021-04/1617983816_2-p-kot-na-stule-3.jpg)
 
 ### Задание 2
 
