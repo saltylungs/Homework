@@ -4,7 +4,7 @@
 
 Вот скриншоты работоспособности моего раннера:
 
-1. ![image](https://github.com/Llyffy/Homework/assets/53367937/b459cd1f-5431-48a1-9f63-1436f587cd1e)
+1. ![image](https://krasivosti.pro/uploads/posts/2021-04/1617983816_2-p-kot-na-stule-3.jpg)
 
 2. ![image](https://github.com/Llyffy/Homework/assets/53367937/6aedb76c-b427-46d9-a09e-94f8f385e5c9)
 
